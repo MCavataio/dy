@@ -1,0 +1,17 @@
+{
+    "cropped":{
+      "true": 100.0
+   },
+   "color": {
+      "Black": 100.0,
+      "indigo": 30
+   }
+   "fit":{
+      "Skinny":70.0,
+      "Relaxed": 30.0
+   },
+   "categories":{
+      "Swim":50.0,
+      "Jeans":90.0
+   }
+}
