@@ -10,8 +10,18 @@
       "Skinny":70.0,
       "Relaxed": 30.0
    },
+   "keywords":{
+      "Best Sellers": 50.0
+   },
+   "collection": {
+     "Good Legs": "50.0",
+     "Good 90s": "30.0"
+   },
    "categories":{
       "Swim":50.0,
       "Jeans":90.0
+   },
+   "Sale": {
+      "true": 50.0
    }
 }
