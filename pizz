@@ -1,0 +1,13 @@
+{
+    "categories":{
+      "pizza": 100.0,
+      "breakfast": 60.0
+      "groceries": 30.
+   },
+   "keywords":{
+      "Sausage": 50.0,
+      "Ham": 30,
+      "Cheese": 10,
+      "Milk": 5
+   },
+}
